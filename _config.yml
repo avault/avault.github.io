@@ -2,7 +2,7 @@
 
 title: "vault"
 description: "vault organizes student-led data expeditions."
-logo: # 120x120 px default image used for Twitter summary card
+logo: logo.jpg
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
 url:
@@ -18,7 +18,7 @@ permalink: /:categories/:title/
 kramdown:
   toc_levels: 1..2
 highlighter: rouge
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -39,6 +39,7 @@ owner:
 
 include:
   - .htaccess
+  - about.md
 exclude:
   - "*.less"
   - "*.sublime-project"
