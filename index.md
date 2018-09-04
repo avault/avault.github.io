@@ -4,7 +4,7 @@ permalink: /
 title: "Student-Led Data Expeditions"
 image:
     feature: cosmic_swirl.png
-    credit: Zach Hafen
+    credit: Zach Hafen, Firefly
     creditlink: https://zhafen.github.io/Latte-CGM/
 ---
 
