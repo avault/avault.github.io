@@ -1,6 +1,6 @@
 # Site navigation links
 
-- title: About
-  url: /about/
-  excerpt: About vault
+- title: Getting Started
+  url: /getting-started/
+  excerpt: Start Here
   image:

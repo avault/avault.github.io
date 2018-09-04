@@ -1,11 +1,21 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "Student-Led Data Expeditions"
 ---
 
-<div class="tiles">
-{% for post in site.posts %}
-	{% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
+vault is a place for students to ask questions about the world they live in,
+and answer them through quantitative analysis.
+
+vault was created as part of the [Reach for the Stars](http://gk12.ciera.northwestern.edu/) program in collaboration with the [Northwestern Academy for Chicago Public Schools](https://www.academy.northwestern.edu/).
+
+{% comment %} 
+A collaboration between the [Reach for the Stars](http://gk12.ciera.northwestern.edu/) program in collaboration with the [Northwestern Academy for Chicago Public Schools](https://www.academy.northwestern.edu/) aims to provide students the necessary structure, community, and mentoring.
+{% endcomment %}
+
+[//]: # ( <div class="tiles"> )
+[//]: # ( {% for post in site.posts %} )
+[//]: # ( 	{% include post-grid.html %} )
+[//]: # ( {% endfor %} )
+[//]: # ( </div><!-- /.tiles --> )
+

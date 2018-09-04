@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: "vault"
-description: "vault organizes student-led data expeditions."
+description: "student-led data expeditions"
 logo: logo.jpg
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
