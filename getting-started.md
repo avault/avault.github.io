@@ -36,13 +36,29 @@ You should prioritize signing up for our Slack Workspace, because if you have tr
 </a>  
 We share our work through GitHub, an industry-standard collaboration tool.  
 If you do not yet have a GitHub account, [sign up for one](https://github.com/).  
-If you would like to be part of our GitHub organization and have not gotten an invite, [email an admin](zachary.h.hafen@gmail).  
+If you would like to be part of our GitHub organization and have not gotten an invite, contact us.
 
 ## Finding a Question
 
+Once you are set up to talk with your peers, you can move on to choosing a question:
+something you would like to understand about the world.
 This is both the hardest and the easiest part.
+Some example questions are ["Are crimes more likely to occur on a particular day of the week?"](https://github.com/avault/chicago_crime/blob/master/Chicago-crime.ipynb),
+["How different are top-ranked colleges from one another?"](https://github.com/avault/higher-ed-exploration/blob/master/analysis.ipynb), and ["Are there undiscovered objects in the famous Hubble Deep Field image?"](https://github.com/avault/deep-field/blob/master/hubble_data_analysis.ipynb).
+There is no perfect way to come up with a question, but we list two methods here.
+If you already have a question, you can move on to the next section.
 
-## Learning To Answer your Question
+#### Data First, Question Second
+In many cases questions stem from having an experiment, data, or a theory in front of you.
+This is frequently what happens in university-level research.
+[Link to data sets.]
+
+#### Using a Question Created by Someone Else
+Another fine way to come up with a question is to use one that already exists.
+[Link to example NBs.]
+[Link to competitions here]
+
+## Learning to Answer a Question
 
 Once you have a direction you would like to go, the next step is to find
 _The most important tool any research can have is a willingness to keep searching utnil you find something useful._
