@@ -15,8 +15,5 @@ ads: false
 
 vault is a place for students to ask questions about the world they live in,
 and answer them through independent quantitative analysis.
-
-Created as part of the
-[Reach for the Stars](http://gk12.ciera.northwestern.edu/) program, vault
-aims to provide students the structure, community, and mentoring needed 
-to make this happen.
+Created as part of the [Reach for the Stars](http://gk12.ciera.northwestern.edu/) program in collaboration with the [Northwestern Academy for Chicago Public Schools](https://www.academy.northwestern.edu/),
+vault aims to provide students the structure, community, and mentoring needed to make this happen.
