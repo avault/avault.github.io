@@ -1,7 +1,6 @@
 ---
 layout: default
 title: 'Getting Started'
-date: '2018-09-01'
 modified:
 excerpt:
 image:
@@ -9,14 +8,18 @@ image:
   teaser:
   thumb:
 permalink : /getting-started/
-ads: true  
+ads: false
 ---
 
 # Getting Started
 
-If you are a student interested in working as part of vault, this page will help you get started.
+If you are a student interested in working as part of vault this page will help you get started.
+
+{% include toc.html %}
 
 ## Connecting to the Community
+
+Before you get started on any of the fun stuff, first you should connect to the rest of the vault community.
 
 #### Slack
 
@@ -34,3 +37,14 @@ You should prioritize signing up for our Slack Workspace, because if you have tr
 We share our work through GitHub, an industry-standard collaboration tool.  
 If you do not yet have a GitHub account, [sign up for one](https://github.com/).  
 If you would like to be part of our GitHub organization and have not gotten an invite, [email an admin](zachary.h.hafen@gmail).  
+
+## Finding a Question
+
+This is both the hardest and the easiest part.
+
+## Learning To Answer your Question
+
+Once you have a direction you would like to go, the next step is to find
+_The most important tool any research can have is a willingness to keep searching utnil you find something useful._
+If you hit a dead-end, try something different for a while.
+However there is always something you can do.

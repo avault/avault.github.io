@@ -2,5 +2,9 @@
 
 - title: Getting Started
   url: /getting-started/
-  excerpt: Start Here
+  excerpt: Students start here.
   image:
+
+- title: Resources
+  url: /resources/
+  excerpt: A pool of potentially useful resources.
