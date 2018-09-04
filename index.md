@@ -2,6 +2,10 @@
 layout: archive
 permalink: /
 title: "Student-Led Data Expeditions"
+image:
+    feature: cosmic_swirl.png
+    credit: Zach Hafen
+    creditlink: https://zhafen.github.io/Latte-CGM/
 ---
 
 vault is a place for students to ask questions about the world they live in,
