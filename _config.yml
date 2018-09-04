@@ -17,6 +17,7 @@ sass:
 permalink: /:categories/:title/
 kramdown:
   toc_levels: 1..2
+  parse_block_html: true
 highlighter: rouge
 plugins:
   - jekyll-sitemap
@@ -39,7 +40,6 @@ owner:
 
 include:
   - .htaccess
-  - about.md
 exclude:
   - "*.less"
   - "*.sublime-project"

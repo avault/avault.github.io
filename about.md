@@ -8,7 +8,8 @@ image:
   feature:
   teaser:
   thumb:
-ads: false  
+permalink : /about/
+ads: true  
 ---
 
 # About vault
