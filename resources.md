@@ -52,6 +52,7 @@ If you want a goal, consider aiming to enter one of the competitions listed here
 * [Google Science Fair](https://www.googlesciencefair.com/)
 * [Intel ISEF](https://student.societyforscience.org/intel-isef)
 * [The Mathematical and Interdisciplinary Contests in Modeling](https://www.comap.com/undergraduate/contests/mcm/)
+* [kaggle Data Science Competitions](https://www.kaggle.com/competitions)
 
 ## Citizen Science Projects
 
