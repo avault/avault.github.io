@@ -12,3 +12,7 @@
 - title: Student Work
   url: https://github.com/avault/
   excerpt: Analysis done by students.
+
+- title: Example Expedition
+  url: /example-expedition/
+  excerpt: An example expedition, using CPS data.
