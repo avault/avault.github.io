@@ -61,6 +61,7 @@ Another fine way to come up with a question is to use one that already exists.
 Check [the projects on our github](https://github.com/avault/), for instance.
 While they are interesting explorations, most of them have a number of unanswered questions you could make your own.
 There are also a number of science/math competitions available, some of which come with pre-assigned problems, for example the [Mathematical and Interdisciplinary Contests in Modeling](https://www.comap.com/undergraduate/contests/icm/index.html)
+Also check out [this discussion](https://statmodeling.stat.columbia.edu/2019/02/07/wanted-statistics-related-projects-for-high-school-students/) on the blog of a well-known Social Sciences/Math Professor about potential projects for High School Students.
 
 ## Learning to Answer a Question
 
