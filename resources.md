@@ -43,6 +43,11 @@ These datasets are about music, video games, sports, art, cars, cosmetics, astro
 * [data.world](https://data.world/)
 * [Google Data Explorer](https://www.google.com/publicdata/directory)
 * [Social Science Data Resources compiled by Northwestern University](https://libguides.northwestern.edu/data)
+* [Inter-university Consortium for Political and Social Research(ICPSR)](https://www.icpsr.umich.edu/icpsrweb/)
+* [IPUMS: A large collection of census data](https://www.ipums.org/) (see also [here for the same data in a different format](https://www.census.gov/programs-surveys/acs))
+* [Census data in a GIS format](https://www.census.gov/geo/maps-data/data/tiger.html) (if you're wondering what GIS is, see [here](https://www.esri.com/en-us/what-is-gis/overview) and [here](http://www.data-analysis-in-python.org/t_gis.html))
+* [Global demographics data](https://www.esri.com/en-us/arcgis/products/esri-demographics/overview) (much of this data is licensed, but may be available through Northwestern Library; see their [Getting Started Page](https://www.esri.com/en-us/arcgis/products/esri-demographics/get-started))
+* [Social Explorer](https://www.socialexplorer.com/) (repackaged census data, available through Northwestern University)
 
 ## Competitions
 
