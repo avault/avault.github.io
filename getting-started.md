@@ -24,7 +24,7 @@ We share our interesting findings, help each other when we get stuck, and just p
 
 #### Slack
 
-<a href="https://join.slack.com/t/vault-hub/shared_invite/enQtNDI5MDM4NzMzNzMwLTY1OGM3YThjZDQyMzNmNTM4NDVkNmY3MmFmNDZmZDIzN2IwODg3NjU2YzliNmRjNzVlZmExMmYzMzhiOTg0MGQ" class="btn-success" >
+<a href="https://join.slack.com/t/vault-hub/shared_invite/zt-5h3il1nm-VFtWGAuFuuQ_l~dzmbyRzw" class="btn-success" >
    Join our Slack Workspace!
 </a>  
 We communicate through Slack, a communication tool widely used by professionals at college-level and beyond.  
